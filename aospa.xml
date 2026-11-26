@@ -85,7 +85,7 @@
 
   <!-- Packages -->
   <remove-project name="platform/packages/apps/Launcher3" />
-  <project path="packages/apps/Launcher3" name="AOSPA/android_packages_apps_Launcher3" remote="aospa" />
+  <project path="packages/apps/Launcher3" name="android_packages_apps_Launcher3" remote="paranoid-uke" />
   <remove-project name="platform/packages/apps/Settings" />
   <project path="packages/apps/Settings" name="AOSPA/android_packages_apps_Settings" remote="aospa" />
   <remove-project name="platform/packages/apps/ThemePicker" />
